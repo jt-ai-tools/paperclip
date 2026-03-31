@@ -11,9 +11,9 @@
 ## 檔案清單
 
 ### 根目錄
-- [ ] AGENTS.md
-- [ ] CONTRIBUTING.md
-- [ ] README.md
+- [x] AGENTS.md
+- [x] CONTRIBUTING.md
+- [x] README.md
 
 ### .agents/
 - [ ] .agents/skills/company-creator/SKILL.md
